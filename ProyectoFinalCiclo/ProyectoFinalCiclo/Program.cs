@@ -11,6 +11,7 @@ namespace ProyectoFinalCiclo
             int n2;
 
             Console.WriteLine("hOLA");
+            Console.WriteLine("LOL");
 
             Console.Write("Dime 2 numeros para sumar");
             n1 = Convert.ToInt32(Console.ReadLine());
