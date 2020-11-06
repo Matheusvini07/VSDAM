@@ -6,16 +6,15 @@ namespace ProyectoFinalCiclo
     {
         static void Main(string[] args)
         {
-            Console.Write("Grados centígrados: ");
-            int centigrados = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hello World!");
+            int n1;
+            int n2;
 
-            int kelvin = centigrados + 273;
-            int fahrenheit = centigrados * 18 / 10 + 32;
+            Console.Write("Dime 2 numeros para sumar");
+            n1 = Convert.ToInt32(Console.ReadLine());
+            n2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Grados Kelvin: ");
-            Console.Write(kelvin);
-            Console.Write(". Grados Fahrenheit: ");
-            Console.Write(fahrenheit);
+            Console.WriteLine(n1 + n2);
         }
 
 
