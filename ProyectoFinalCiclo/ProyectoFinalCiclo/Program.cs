@@ -10,7 +10,7 @@ namespace ProyectoFinalCiclo
             int n1;
             int n2;
 
-            Console.WriteLine("hOLA");
+            Console.WriteLine("hOLo");
 
             Console.Write("Dime 2 numeros para sumar");
             n1 = Convert.ToInt32(Console.ReadLine());
