@@ -6,7 +6,7 @@ namespace ProyectoFinalCiclo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! prueba1");
+            Console.WriteLine("Hello World!");
             int n1;
             int n2;
 
